@@ -4,7 +4,7 @@ public:
         int m=n;
         int mask=0;
 
-        if(n==0){
+        if(n==0){           //edge case (for n=0)
             return 1;
         }
 

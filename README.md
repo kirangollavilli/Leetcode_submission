@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/kirangollavilli/Leetcode_submission/tree/master/0007-reverse-integer) |
+| [0066-plus-one](https://github.com/kirangollavilli/Leetcode_submission/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/kirangollavilli/Leetcode_submission/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/kirangollavilli/Leetcode_submission/tree/master/0231-power-of-two) |
 ## Bit Manipulation
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/kirangollavilli/Leetcode_submission/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/kirangollavilli/Leetcode_submission/tree/master/0066-plus-one) |
 | [1207-unique-number-of-occurrences](https://github.com/kirangollavilli/Leetcode_submission/tree/master/1207-unique-number-of-occurrences) |
 ## Hash Table
 |  |

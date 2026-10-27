@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/kirangollavilli/Leetcode_submission/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kirangollavilli/Leetcode_submission/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0066-plus-one](https://github.com/kirangollavilli/Leetcode_submission/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/kirangollavilli/Leetcode_submission/tree/master/0169-majority-element) |
 | [1207-unique-number-of-occurrences](https://github.com/kirangollavilli/Leetcode_submission/tree/master/1207-unique-number-of-occurrences) |
@@ -69,5 +70,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kirangollavilli/Leetcode_submission/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0441-arranging-coins](https://github.com/kirangollavilli/Leetcode_submission/tree/master/0441-arranging-coins) |
 <!---LeetCode Topics End-->

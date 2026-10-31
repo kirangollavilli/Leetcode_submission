@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/kirangollavilli/Leetcode_submission/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/kirangollavilli/Leetcode_submission/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/kirangollavilli/Leetcode_submission/tree/master/0231-power-of-two) |
 | [0461-hamming-distance](https://github.com/kirangollavilli/Leetcode_submission/tree/master/0461-hamming-distance) |
 | [1009-complement-of-base-10-integer](https://github.com/kirangollavilli/Leetcode_submission/tree/master/1009-complement-of-base-10-integer) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kirangollavilli/Leetcode_submission/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/kirangollavilli/Leetcode_submission/tree/master/0190-reverse-bits) |
 ## Sorting
 |  |
 | ------- |

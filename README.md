@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/kirangollavilli/Leetcode_submission/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/kirangollavilli/Leetcode_submission/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/kirangollavilli/Leetcode_submission/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/kirangollavilli/Leetcode_submission/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/kirangollavilli/Leetcode_submission/tree/master/0231-power-of-two) |
 | [0441-arranging-coins](https://github.com/kirangollavilli/Leetcode_submission/tree/master/0441-arranging-coins) |
 ## Bit Manipulation
@@ -72,10 +73,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/kirangollavilli/Leetcode_submission/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/kirangollavilli/Leetcode_submission/tree/master/0392-is-subsequence) |
 ## Binary Search
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kirangollavilli/Leetcode_submission/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0441-arranging-coins](https://github.com/kirangollavilli/Leetcode_submission/tree/master/0441-arranging-coins) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/kirangollavilli/Leetcode_submission/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

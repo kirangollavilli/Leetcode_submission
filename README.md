@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/kirangollavilli/Leetcode_submission/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kirangollavilli/Leetcode_submission/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0066-plus-one](https://github.com/kirangollavilli/Leetcode_submission/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/kirangollavilli/Leetcode_submission/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/kirangollavilli/Leetcode_submission/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/kirangollavilli/Leetcode_submission/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/kirangollavilli/Leetcode_submission/tree/master/0485-max-consecutive-ones) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/kirangollavilli/Leetcode_submission/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/kirangollavilli/Leetcode_submission/tree/master/0088-merge-sorted-array) |
 | [0392-is-subsequence](https://github.com/kirangollavilli/Leetcode_submission/tree/master/0392-is-subsequence) |
 ## String
 |  |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/kirangollavilli/Leetcode_submission/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/kirangollavilli/Leetcode_submission/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/kirangollavilli/Leetcode_submission/tree/master/0414-third-maximum-number) |
 ## Counting
